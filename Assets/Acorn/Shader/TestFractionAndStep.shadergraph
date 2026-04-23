@@ -1076,15 +1076,15 @@
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "bb125fe3fdf54552b7e3a80c446cf773",
     "m_Title": "Fraction节点",
-    "m_Content": "取小数部分,只保留输入值的纯小数部分.\n如:\n输入1.3,输出0.3\n输入-1.56,输出0.56",
+    "m_Content": "取小数部分,只保留输入值的纯小数部分.\n计算方式:In(1) - Floor(In(1))\nFloor计算方式:取小于或等于In(1)的最大整数\n如:\n输入1.3,输出0.3\n输入-0.1,输出0.9\n\n以-0.1举例\nfrac(-0.1) = -0.1 - Floor(-0.1)\n= -0.1 - (-1)\n=0.9",
     "m_TextSize": 0,
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": -653.0,
-        "y": 551.0,
+        "x": -617.0,
+        "y": 555.0,
         "width": 200.0,
-        "height": 160.0
+        "height": 240.04547119140626
     },
     "m_Group": {
         "m_Id": ""
