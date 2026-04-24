@@ -96,7 +96,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: 7ec26eecaca5dc6428cfb5b975ed6f7a,
+  m_LightingDataAsset: {fileID: 112000000, guid: 5191e28916a05ea47b5bda2bb2ab201a,
     type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 7e9858b3586b0f34f8bbd9de1effcd55,
     type: 2}
@@ -5283,7 +5283,7 @@ Camera:
   m_GameObject: {fileID: 1890119310}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
+  m_ClearFlags: 2
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
