@@ -2207,7 +2207,7 @@
     "m_Title": "Emission",
     "m_Position": {
         "x": -1088.0,
-        "y": 1107.9998779296875
+        "y": 1108.0
     }
 }
 
@@ -2883,7 +2883,7 @@
     "m_Title": "Alpha",
     "m_Position": {
         "x": -147.0,
-        "y": 802.9999389648438
+        "y": 803.0
     }
 }
 
@@ -2917,7 +2917,7 @@
     "m_ObjectId": "9e2f49e78fd04cc7941ec808ed9d827d",
     "m_Title": "Pattern",
     "m_Position": {
-        "x": -2614.999755859375,
+        "x": -2615.0,
         "y": -349.0
     }
 }
@@ -3507,7 +3507,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.20000000298023225,
+    "m_Value": 0.07999999821186066,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -3536,8 +3536,8 @@
     "m_ObjectId": "c0fd35c7aba645fbae8aa5b7169f9396",
     "m_Title": "Color",
     "m_Position": {
-        "x": -942.9999389648438,
-        "y": 64.00003051757813
+        "x": -943.0,
+        "y": 64.0
     }
 }
 
